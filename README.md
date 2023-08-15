@@ -6,6 +6,7 @@ The libraries are:
 - Scipy
 - Matplotlib
 - Seaborn
+- Plotly
 - Scikit-Learn
 - Bokeh
 - Beautiful Soup
